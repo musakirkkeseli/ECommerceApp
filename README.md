@@ -7,3 +7,6 @@
 
 
 ![ScreenshotProducts](Screenshots/ScreenshotProducts.png)
+![ScreenshotCategoryFilter](Screenshots/ScreenshotCategoryFilter.png)
+![ScreenshotProductDetail](Screenshots/ScreenshotProductDetail.png)
+![ScreenshotMap](Screenshots/ScreenshotMap.png)
